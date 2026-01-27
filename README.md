@@ -1,20 +1,15 @@
 <div align="center">
 
 # 🚀 Jia Chun | AI Engineer & Full Stack Architect
-### "Turning messy ideas → clean systems → real products."
+### Turning messy ideas → clean systems → real products
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRrZGF1c3I2ZXBmcHh5MzVwdTJxcnY1ejd3N2UwaGNpbzYwMGNldiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H1dxi6xdh4NGQCZSvz/giphy.gif" width="450" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRrZGF1c3I2ZXBmcHh5MzVwdTJxcnY1ejd3N2UwaGNpbzYwMGNldiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H1dxi6xdh4NGQCZSvz/giphy.gif" width="240" />
 
 [🌐 Portfolio](https://jiachuntan.vercel.app) • [💼 LinkedIn](http://linkedin.com/in/jiachuntan23) • [💬 Get in Touch](mailto:t.jiachun23@gmail.com)
 
 ---
 
-
 </div>
-
-## 📊 My GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiachun23&show_icons=true&hide_title=true)
 
 ## 🧠 The Philosophy
 I build AI that’s **useful, not just flashy**. My focus is on the intersection of generative intelligence and robust engineering—ensuring that agents don't just "chat," but actually perform.
@@ -35,14 +30,25 @@ I build AI that’s **useful, not just flashy**. My focus is on the intersection
 | **Infrastructure** | Docker, Azure, Google Cloud (GCP), Firebase, Vercel, Databricks |
 
 ## 🧬 Ecosystem & Stack
-Core Development:
-<p> <img src="https://skillicons.dev/icons?i=python,ts,js,fastapi,svelte,tailwind,nodejs,nextjs" /> </p>
+Core Development
 
-Data & Memory:
-<p> <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb" /> </p>
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Yolo-111F68?style=for-the-badge&logo=yolo&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> </p>
 
-DevOps & Cloud:
-<p> <img src="https://skillicons.dev/icons?i=docker,azure,gcp,aws,firebase,vercel,gitlab,linux" /> </p>
+Data & Memory
+
+<p> <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> </p>
+
+DevOps
+
+<p> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> </p>
+
+Cloud 
+
+<p> <img src="https://skillicons.dev/icons?i=azure,gcp,aws" /></p>
+
+Work 
+
+<p> <img src="https://img.shields.io/badge/Accenture-A100FF?style=for-the-badge&logo=accenture&logoColor=white" /> </p>
 
 ---
 
