@@ -1,93 +1,67 @@
 <div align="center">
 
-# Hey, I’m Jia Chun 👋  
-### I build AI systems that *actually ship* 🚀
+# 🚀 Jia Chun | AI Engineer & Full Stack Architect
+### "Turning messy ideas → clean systems → real products."
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRrZGF1c3I2ZXBmcHh5MzVwdTJxcnY1ejd3N2UwaGNpbzYwMGNldiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H1dxi6xdh4NGQCZSvz/giphy.gif" width="450" />
+
+[🌐 Portfolio](https://jiachuntan.vercel.app) • [💼 LinkedIn](http://linkedin.com/in/jiachuntan23) • [💬 Get in Touch](mailto:t.jiachun23@gmail.com)
+
+---
 
 </div>
 
----
+## 🧠 The Philosophy
+I build AI that’s **useful, not just flashy**. My focus is on the intersection of generative intelligence and robust engineering—ensuring that agents don't just "chat," but actually perform.
 
-## 🧠 About Me
-
-I’m an **AI Engineer & Full Stack Developer** who enjoys turning  
-**messy ideas → clean systems → real products**.
-
-I like:
-- systems that scale  
-- APIs that don’t break  
-- AI that’s useful (not just flashy)
+* **Scalable Systems:** Architecture that grows without breaking.
+* **Agentic Reasoning:** Multi-agent orchestration and long-term memory.
+* **Production Ready:** Built with real-world constraints (latency, cost, and UX).
 
 ---
 
-## 🛠 What I’m Good At
+## 🛠 Tech Stack & Capabilities
 
-🤖 **GenAI & Agentic Systems**  
-- LLM orchestration, RAG, structured outputs  
-- Multi-agent reasoning & memory
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **AI & LLMs** | OpenAI, Gemini, Claude, LangChain, RAG Orchestration |
+| **Backend** | Python, FastAPI, Node.js, PostgreSQL (pgvector), Redis |
+| **Frontend** | Svelte / SvelteKit, Next.js, TypeScript, TailwindCSS |
+| **Infrastructure** | Docker, Azure, Google Cloud (GCP), Firebase, Vercel |
 
-🧩 **Full Stack Development**  
-- FastAPI backends  
-- Svelte / Next.js frontends  
-- Clean API design & integration
-
-📊 **Data → Insight Pipelines**  
-- Excel / JSON / PDFs → structured reports  
-- Automation & analytics
-
----
-
-## ⚙️ Tech I Use (A Lot)
-
-<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="280" align="right"/>
-
-🧠 Languages
-<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> </p>
-
-🎨 Frontend
-<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/> </p>
-
-🤖 Backend / AI
-<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" title="Gemini"/> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Anthropic_logo.svg" width="80" title="Claude"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="Vector DBs"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40"/> </p>
-
-☁️ Infra
-<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/> </p>
+### 🧬 Ecosystem
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,mysql,postgres,redis,fastapi,svelte,nextjs,tailwind,docker,azure,gcp,vercel,github,firebase" />
+</p>
 
 ---
 
-## 🚀 Stuff I Build
+## 🚀 Key Projects & Impact
 
-- 🧠 **Agentic AI Platforms** — reasoning, memory, orchestration  
-- 🖥 **Interactive AI Apps** — dashboards, tools, internal platforms  
-- 📄 **Smart Document Systems** — reports, quotations, summaries  
-
-> Built with real-world constraints: performance, cost, and maintainability.
+* 🤖 **Agentic AI Platforms** — Developed end-to-end reasoning engines with persistent memory.
+* 🖥 **Interactive Dashboards** — High-performance internal tools for data visualization and AI monitoring.
+* 📄 **Intelligent Pipelines** — Automated PDF/JSON extraction systems that generate structured business insights.
 
 ---
 
-## 🌱 Currently Playing With
+## 🌱 Currently Experimenting With
+<img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="180"/>
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
+* **Hybrid LLM Workflows:** Combining small local models with frontier APIs.
+* **Multi-Agent Coordination:** Exploring swarm intelligence for complex task solving.
+* **Developer Experience (DX):** Building tools to automate the "boring stuff."
 
-- LLM hybrids workflows  
-- Multi-agent coordination patterns  
-- AI-powered developer tools
-
----
-
-## 🤝 Let’s Build Something Cool
-
-🌐 Portfolio → **https://jiachuntan.vercel.app**  
-💼 LinkedIn → **http://linkedin.com/in/jiachuntan23**
-
-💬 Got an idea, a problem, or something half-baked?  
-Let’s turn it into something real.
+<br clear="right"/>
 
 ---
 
 <div align="center">
 
-⭐️ *If you scrolled this far, we’ll probably get along.*
+### 🤝 Let’s Build the Future
+*Got a problem that needs an AI-shaped solution?*
+
+[**Let's Chat!**](http://linkedin.com/in/jiachuntan23)
+
+⭐️ *If you scrolled this far, we’re probably on the same wavelength.*
 
 </div>
