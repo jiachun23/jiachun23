@@ -66,7 +66,7 @@ Work
 ---
 
 ## 🌱 Currently Experimenting With
-<img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="180"/>
+<img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
 
 * **Hybrid LLM Workflows:** Combining small local models with frontier APIs.
 * **Multi-Agent Coordination:** Exploring swarm intelligence for complex task solving.
