@@ -30,6 +30,11 @@ I build AI that’s **useful, not just flashy**. My focus is on the intersection
 | **Infrastructure** | Docker, Azure, Google Cloud (GCP), Firebase, Vercel, Databricks |
 
 ## 🧬 Ecosystem & Stack
+LLM / AI
+
+<p> <img src="https://images.icon-icons.com/4252/PNG/512/chatgpt_logo_chatgpt_logo_square_green_gpt_ia_openai_icon_264976.png" width="60" title="OAI"/> <img src="https://cdn.svglogos.dev/logos/google-gemini.svg" width="180" title="Gemini"/> <img src="https://cdn.svglogos.dev/logos/claude-icon.svg" width="60" title="Claude"/> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/zai-text.png" width="120" title="Z.ai"/> </p>
+
+
 Core Development
 
 <p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Yolo-111F68?style=for-the-badge&logo=yolo&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> </p>
