@@ -27,12 +27,17 @@ I build AI that’s **useful, not just flashy**. My focus is on the intersection
 | **AI & LLMs** | OpenAI, Gemini, Claude, LangChain, RAG Orchestration |
 | **Backend** | Python, FastAPI, Node.js, PostgreSQL (pgvector), Redis |
 | **Frontend** | Svelte / SvelteKit, Next.js, TypeScript, TailwindCSS |
-| **Infrastructure** | Docker, Azure, Google Cloud (GCP), Firebase, Vercel |
+| **Infrastructure** | Docker, Azure, Google Cloud (GCP), Firebase, Vercel, Databricks |
 
-### 🧬 Ecosystem
-<p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,mysql,postgres,redis,fastapi,svelte,nextjs,tailwind,docker,azure,gcp,vercel,github,firebase" />
-</p>
+## 🧬 Ecosystem & Stack
+Core Development:
+<p> <img src="https://skillicons.dev/icons?i=python,ts,js,fastapi,svelte,tailwind,nodejs,nextjs" /> </p>
+
+Data & Memory:
+<p> <img src="https://skillicons.dev/icons?i=pdatabricks,postgres,mysql,redis,mongodb" /> </p>
+
+DevOps & Cloud:
+<p> <img src="https://skillicons.dev/icons?i=docker,azure,gcp,aws,firebase,vercel,gitlab,linux" /> </p>
 
 ---
 
