@@ -9,7 +9,20 @@
 
 ---
 
+
 </div>
+
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jiachun23&show_icons=true&theme=tokyonight&rank_icon=github" alt="Jia Chun's GitHub Stats" height="190" />
+  
+  <img src="https://streak-stats.demolab.com?user=jiachun23&theme=tokyonight" alt="GitHub Streak" height="190" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiachun23&layout=compact&theme=radical&hide=html,css" alt="Top Languages" height="165" />
+</p>
 
 ## 🧠 The Philosophy
 I build AI that’s **useful, not just flashy**. My focus is on the intersection of generative intelligence and robust engineering—ensuring that agents don't just "chat," but actually perform.
@@ -24,7 +37,7 @@ I build AI that’s **useful, not just flashy**. My focus is on the intersection
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **AI & LLMs** | OpenAI, Gemini, Claude, LangChain, RAG Orchestration |
+| **AI & LLMs** | OpenAI, Gemini, Claude, RAG Orchestration, n8n |
 | **Backend** | Python, FastAPI, Node.js, PostgreSQL (pgvector), Redis |
 | **Frontend** | Svelte / SvelteKit, Next.js, TypeScript, TailwindCSS |
 | **Infrastructure** | Docker, Azure, Google Cloud (GCP), Firebase, Vercel, Databricks |
@@ -34,7 +47,7 @@ Core Development:
 <p> <img src="https://skillicons.dev/icons?i=python,ts,js,fastapi,svelte,tailwind,nodejs,nextjs" /> </p>
 
 Data & Memory:
-<p> <img src="https://skillicons.dev/icons?i=pdatabricks,postgres,mysql,redis,mongodb" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb" /> </p>
 
 DevOps & Cloud:
 <p> <img src="https://skillicons.dev/icons?i=docker,azure,gcp,aws,firebase,vercel,gitlab,linux" /> </p>
