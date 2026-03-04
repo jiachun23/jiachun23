@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Jia Chun | AI Engineer & Full Stack Architect
+# 🚀 Jia Chun | "Full Stack" AI Engineer & Data Science Consultant
 ### Turning messy ideas → clean systems → real products
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRrZGF1c3I2ZXBmcHh5MzVwdTJxcnY1ejd3N2UwaGNpbzYwMGNldiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H1dxi6xdh4NGQCZSvz/giphy.gif" width="240" />
