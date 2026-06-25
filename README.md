@@ -32,7 +32,7 @@ I build AI that’s **useful, not just flashy**. My focus is on the intersection
 ## 🧬 Ecosystem & Stack
 LLM / AI
 
-<p> <img src="https://images.icon-icons.com/4252/PNG/512/chatgpt_logo_chatgpt_logo_square_green_gpt_ia_openai_icon_264976.png" width="60" title="OAI"/> <img src="https://cdn.svglogos.dev/logos/google-gemini.svg" width="180" title="Gemini"/> <img src="https://cdn.svglogos.dev/logos/claude-icon.svg" width="60" title="Claude"/> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/zai-text.png" width="120" title="Z.ai"/> </p>
+<p> <img src="https://cdn.svglogos.dev/logos/openai.svg" width="60" title="OAI"/> <img src="https://cdn.svglogos.dev/logos/google-gemini.svg" width="180" title="Gemini"/> <img src="https://cdn.svglogos.dev/logos/claude-icon.svg" width="60" title="Claude"/> </p>
 
 
 Core Development
